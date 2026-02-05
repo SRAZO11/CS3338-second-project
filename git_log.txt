@@ -1,0 +1,45 @@
+commit 30ffd220c8b639fdcefeffd9a8ba618cf6e6dd55
+Merge: 6a250d4 fe29374
+Author: Shary <srazo11@calstatela.edu>
+Date:   Thu Feb 5 15:25:48 2026 -0800
+
+    Resolve merge conflict
+
+commit fe29374de851bd1682c42240a94f5141d85bc368
+Author: Shary <srazo11@calstatela.edu>
+Date:   Thu Feb 5 15:22:17 2026 -0800
+
+    Add favorite movie
+
+commit 6a250d4a49c769ad98916f43fe3986889d63cecb
+Author: Shary <srazo11@calstatela.edu>
+Date:   Thu Feb 5 15:20:17 2026 -0800
+
+    Add favorite food
+
+commit f5c17a4a7d7497afb6375449ef82c2899b6e248c
+Author: Shary <srazo11@calstatela.edu>
+Date:   Thu Feb 5 15:12:56 2026 -0800
+
+    Add README
+
+commit e609e9f8016977ad20a4846b4e5f49d4cf189467
+Merge: 1d2bfc0 7e757c7
+Author: Shary Razo <srazo11@calstatela.edu>
+Date:   Thu Feb 5 15:08:20 2026 -0800
+
+    Merge pull request #1 from SRAZO11/info-fill
+    
+    Fill in the blanks pull real
+
+commit 7e757c75729ca5e3b40ad41331d7e62ce2fa4f41
+Author: Shary <srazo11@calstatela.edu>
+Date:   Thu Feb 5 14:45:23 2026 -0800
+
+    Fill in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
